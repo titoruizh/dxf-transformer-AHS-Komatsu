@@ -37,13 +37,6 @@ Puedes acceder y utilizar la app a través de la siguiente URL:
 
 ---
 
-## ❔ ¿Quién puede ver el código fuente?
-
-- Solo tú y los colaboradores que autorices en el repositorio privado de GitHub.
-- Los usuarios solo ven y usan la app, pero no tienen acceso al código fuente.
-
----
-
 ## 👨‍💻 Autor
 
 - [Tito Ruiz](https://github.com/titoruizh)
