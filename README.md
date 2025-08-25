@@ -43,12 +43,6 @@ Puedes acceder y utilizar la app a través de la siguiente URL:
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
-
----
-
 ## 📁 Estructura de carpetas recomendada
 
 ```
