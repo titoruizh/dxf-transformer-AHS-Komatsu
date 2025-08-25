@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+.venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Temp files
+*.dxf_out.dxf
+*.tmp
+*.log
+
+# VSCode
+.vscode/
