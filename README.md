@@ -39,11 +39,11 @@ Puedes acceder y utilizar la app a través de la siguiente URL:
 
 ## 👨‍💻 Autor
 
-- [Tito Ruiz](https://github.com/titoruizh)
+- [Tito Ruiz, Ingeniero Geomensor - Est. Magister Informatica](https://github.com/titoruizh)
 
 ---
 
-## 📁 Estructura de carpetas recomendada
+## 📁 Estructura de carpetas
 
 ```
 dxf-transformer-app/
