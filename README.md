@@ -43,22 +43,3 @@ Puedes acceder y utilizar la app a través de la siguiente URL:
 
 ---
 
-## 📁 Estructura de carpetas
-
-```
-dxf-transformer-app/
-├── streamlit_upgrade.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── LICENSE
-└── assets/
-    ├── interfaz.png
-    └── resultado.png
-```
-
----
-
-## 🛠️ Colaboradores
-
-Si deseas acceso como colaborador, contáctame por GitHub o email para solicitar autorización.
