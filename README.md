@@ -1,9 +1,8 @@
 # Transformador DXF - ESS|AHS Komatsu
 
-Este repositorio contiene el código fuente privado de la aplicación para transformar archivos DXF entre sistemas de coordenadas **FrontRunner®** y **MINA**.
+Este repositorio contiene el código fuente de la aplicación para transformar archivos DXF entre sistemas de coordenadas **FrontRunner®** y **MINA**.
 Permite cargar dxf transformado encima de los ortomosaicos de la mina.
 
-> **Nota:** El código fuente es privado y solo accesible para colaboradores autorizados.
 > La aplicación está disponible para uso público en AWS.
 
 ---
